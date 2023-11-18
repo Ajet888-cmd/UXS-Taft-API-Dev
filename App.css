@@ -1,0 +1,28 @@
+.app-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  button {
+    background-color: #61dafb;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  button:hover {
+    background-color: #4fa3d1;
+  }
+  
+  .joke {
+    margin-top: 20px;
+    font-style: italic;
+    color: #555;
+  }
+  
