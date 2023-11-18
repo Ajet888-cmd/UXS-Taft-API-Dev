@@ -1,4 +1,4 @@
-"homepage": "https://github.com/Ajet888-cmd/UXS-Taft-API-Dev",
+"homepage": "https://ajet888-cmd.github.io/UXS-Taft-API-Dev/",
 
 "scripts": {
     "predeploy": "npm run build",
